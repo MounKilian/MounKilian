@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src=Add-ons/giphy.gif width="400" height="auto">
+  <img src=img/giphy.gif width="400" height="auto">
 </div>
