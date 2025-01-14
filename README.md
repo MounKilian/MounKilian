@@ -7,7 +7,7 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
-<li>  🖥️ Computer science student | B1 info </li>
+<li>  🖥️ Computer science student | B2 informatique </li>
 <li>  🔭 I’m currently working on Nokturial </li>
 <li>  🎮 I’m currently playing Valorant </li>
 
